@@ -8,3 +8,4 @@ This repository contains a Playwright automation test for the public demo websit
 
 #Test File:
 - `login_add_cart_logout.spec.js` → main test code
+
